@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "387047038390",
+    "firebase_url": "https://bookslisting-master.firebaseio.com",
+    "project_id": "bookslisting-master",
+    "storage_bucket": "bookslisting-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387047038390:android:a3d355c15bd84de9",
+        "android_client_info": {
+          "package_name": "com.example.android.booklisting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387047038390-2bh13ud4q1nj9hj04l3j55llkpebbhaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.booklisting",
+            "certificate_hash": "e34d06cd440934bf2b530aad9d1971e75665684a"
+          }
+        },
+        {
+          "client_id": "387047038390-uv2c2gbkjf8qkb0eino16idhaqrc6d9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMSHBpqXT4N-bmpB0X7TrzM4s0DZ9_YMY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387047038390-uv2c2gbkjf8qkb0eino16idhaqrc6d9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

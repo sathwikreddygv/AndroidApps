@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/srujana/Desktop/apps/InstantApps-HelloWorld/installed/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/srujana/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/33c477e627b397e6fb328a451b93386a/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/srujana/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/853eef8a78f6b2cde995dc153f0bffa1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

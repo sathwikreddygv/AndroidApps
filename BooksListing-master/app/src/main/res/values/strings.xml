@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Book Listing</string>
+    <string name="searchButtonText">Search</string>
+    <string name="searchEditTextHint">Please type keyword for books!</string>
+    <string name="no_internet">No Connection!</string>
+    <string name="no_books">No Books Found!</string>
+
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">Book List Settings</string>
+
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_filter_by_label">Filter</string>
+    <string name="settings_filter_by_key" translatable="false">filter_by</string>
+    <string name="settings_filter_by_default" translatable="false">@string/settings_filter_by_free_value</string>
+
+    <!-- Label for order-by magnitude option [CHAR LIMIT=20] -->
+    <string name="settings_filter_by_free_label">Free E-Books</string>
+    <string name="settings_filter_by_free_value" translatable="false">free-ebooks</string>
+
+    <!-- Label for order-by most recent option [CHAR LIMIT=20] -->
+    <string name="settings_filter_by_paid_label">Paid E-Books</string>
+    <string name="settings_filter_by_paid_value" translatable="false">paid-ebooks</string>
+
+
+</resources>
